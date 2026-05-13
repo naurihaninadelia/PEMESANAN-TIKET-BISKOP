@@ -10,14 +10,14 @@
 
             <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                 <div class="custom-block custom-block-overlay">
-                    <a href="detail-page.html" class="custom-block-image-wrap">
+                    <a class="custom-block-image-wrap">
                         <img src="{{ asset('templateUser') }}/images/topics/physician-consulting-his-patient-clinic.jpeg"
                             class="custom-block-image img-fluid" alt="">
                     </a>
 
                     <div class="custom-block-info custom-block-overlay-info">
                         <h5 class="mb-1">
-                            <a href="listing-page.html">
+                            <a>
                                 Night Has Come
                             </a>
                         </h5>
@@ -29,14 +29,14 @@
 
             <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                 <div class="custom-block custom-block-overlay">
-                    <a href="detail-page.html" class="custom-block-image-wrap">
+                    <a class="custom-block-image-wrap">
                         <img src="{{ asset('templateUser') }}/images/topics/repairman-doing-air-conditioner-service.jpeg"
                             class="custom-block-image img-fluid" alt="">
                     </a>
 
                     <div class="custom-block-info custom-block-overlay-info">
                         <h5 class="mb-1">
-                            <a href="listing-page.html">
+                            <a>
                                 The Great Shaman Ga Doo Shim
                             </a>
                         </h5>
@@ -48,14 +48,14 @@
 
             <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                 <div class="custom-block custom-block-overlay">
-                    <a href="detail-page.html" class="custom-block-image-wrap">
+                    <a class="custom-block-image-wrap">
                         <img src="{{ asset('templateUser') }}/images/topics/woman-practicing-yoga-mat-home.jpeg"
                             class="custom-block-image img-fluid" alt="">
                     </a>
 
                     <div class="custom-block-info custom-block-overlay-info">
                         <h5 class="mb-1">
-                            <a href="listing-page.html">
+                            <a>
                                 Nevertheless
                             </a>
                         </h5>
@@ -67,14 +67,14 @@
 
             <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                 <div class="custom-block custom-block-overlay">
-                    <a href="detail-page.html" class="custom-block-image-wrap">
+                    <a class="custom-block-image-wrap">
                         <img src="{{ asset('templateUser') }}/images/topics/delicious-meal-with-sambal-arrangement.jpeg"
                             class="custom-block-image img-fluid" alt="">
                     </a>
 
                     <div class="custom-block-info custom-block-overlay-info">
                         <h5 class="mb-1">
-                            <a href="listing-page.html">
+                            <a>
                                 Scandal Of Night
                             </a>
                         </h5>

@@ -5,15 +5,6 @@
                     class="logo-image img-fluid"alt="templatemo pod talk"width="120">
                 </a>
 
-                    <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
-                        <div class="input-group input-group-lg">
-                            <input name="search" type="search" class="form-control" id="search" placeholder="Search film" aria-label="Search">
-
-                            <button type="submit" class="form-control" id="submit">
-                                <i class="bi-search"></i>
-                            </button>
-                        </div>
-                    </form>
 
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -21,11 +12,8 @@
 
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-lg-auto">
-                            <li class="nav-item">
-                                <a class="nav-link {{ Request::is('/') ? 'active' : '' }}" href="/">Home</a>
-                            </li>
                         <div class="ms-4">
-                            <a href="#section_3" class="btn custom-btn custom-border-btn smoothscroll">Get Ticket</a>
+                            <a href="{{ route('register') }}" class="btn custom-btn custom-border-btn smoothscroll">Get Ticket</a>
                         </div>
                     </div>
                 </div>

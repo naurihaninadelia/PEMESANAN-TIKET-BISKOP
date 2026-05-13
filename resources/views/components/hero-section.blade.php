@@ -6,7 +6,7 @@
                             <div class="text-center mb-5 pb-2">
                                 <h1 class="text-white">Jelajahi Dunia Cinema Favorit Anda!!</h1>
 
-                                <p class="text-white">Ratusan film dari semua genre menanti Anda.</p>
+                                <p class="text-black">Ratusan film dari semua genre menanti Anda.</p>
 
                                 <a href="#section_2" class="btn custom-btn smoothscroll mt-3">View Today's Schedule</a>
                             </div>

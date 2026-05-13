@@ -63,14 +63,14 @@ https://templatemo.com/tm-584-pod-talk
                                         <a href="detail-page.html" class="custom-block-image-wrap">
                                             <img src="{{asset('templateUser')}}/images/podcast/11683425_4790593.jpeg" class="custom-block-image img-fluid" alt="">
 
-                                            <a href="#" class="custom-block-icon">
+                                            <a class="custom-block-icon">
                                                 <i class="bi-play-fill"></i>
                                             </a>
                                         </a>
                                     </div>
 
                                     <div class="mt-2">
-                                        <a href="#" class="btn custom-btn">
+                                        <a class="btn custom-btn">
                                             Subscribe
                                         </a>
                                     </div>
@@ -87,7 +87,7 @@ https://templatemo.com/tm-584-pod-talk
                                     </div>
 
                                     <h5 class="mb-2">
-                                        <a href="detail-page.html">
+                                        <a>
                                             21st Century Grand Prince's Wife
                                         </a>
                                     </h5>
@@ -104,30 +104,30 @@ https://templatemo.com/tm-584-pod-talk
                                     <p class="mb-0">Drama ini menceritakan tentang Korea Selatan di masa modern yang masih menganut sistem monarki (kerajaan).</p>
 
                                     <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                        <a href="#" class="bi-headphones me-1">
+                                        <a class="bi-headphones me-1">
                                             <span>120k</span>
                                         </a>
 
-                                        <a href="#" class="bi-heart me-1">
+                                        <a class="bi-heart me-1">
                                             <span>42.5k</span>
                                         </a>
 
-                                        <a href="#" class="bi-chat me-1">
+                                        <a class="bi-chat me-1">
                                             <span>11k</span>
                                         </a>
 
-                                        <a href="#" class="bi-download">
+                                        <a class="bi-download">
                                             <span>50k</span>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="d-flex flex-column ms-auto">
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-heart"></i>
                                     </a>
 
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-bookmark"></i>
                                     </a>
                                 </div>
@@ -142,14 +142,14 @@ https://templatemo.com/tm-584-pod-talk
                                         <a href="detail-page.html" class="custom-block-image-wrap">
                                             <img src="{{asset('templateUser')}}/images/podcast/12577967_02.jpeg" class="custom-block-image img-fluid" alt="">
 
-                                            <a href="#" class="custom-block-icon">
+                                            <a class="custom-block-icon">
                                                 <i class="bi-play-fill"></i>
                                             </a>
                                         </a>
                                     </div>
 
                                     <div class="mt-2">
-                                        <a href="#" class="btn custom-btn">
+                                        <a class="btn custom-btn">
                                             Subscribe
                                         </a>
                                     </div>
@@ -166,7 +166,7 @@ https://templatemo.com/tm-584-pod-talk
                                     </div>
 
                                     <h5 class="mb-2">
-                                        <a href="detail-page.html">
+                                        <a>
                                             20th Century Girl
                                         </a>
                                     </h5>
@@ -181,30 +181,30 @@ https://templatemo.com/tm-584-pod-talk
                                     <p class="mb-0">Film ini berlatar tahun 1999 dan merupakan drama romantis yang sangat mengharukan tentang cinta pertama dan persahabatan.</p>
 
                                     <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                        <a href="#" class="bi-headphones me-1">
+                                        <a class="bi-headphones me-1">
                                             <span>140k</span>
                                         </a>
 
-                                        <a href="#" class="bi-heart me-1">
+                                        <a class="bi-heart me-1">
                                             <span>22.4k</span>
                                         </a>
 
-                                        <a href="#" class="bi-chat me-1">
+                                        <a class="bi-chat me-1">
                                             <span>16k</span>
                                         </a>
 
-                                        <a href="#" class="bi-download">
+                                        <a class="bi-download">
                                             <span>62k</span>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="d-flex flex-column ms-auto">
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-heart"></i>
                                     </a>
 
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-bookmark"></i>
                                     </a>
                                 </div>
@@ -232,14 +232,14 @@ https://templatemo.com/tm-584-pod-talk
                         <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                             <div class="custom-block custom-block-full">
                                 <div class="custom-block-image-wrap">
-                                    <a href="detail-page.html">
+                                    <a>
                                         <img src="{{asset('templateUser')}}/images/podcast/27376480_7326766.jpeg" class="custom-block-image img-fluid" alt="">
                                     </a>
                                 </div>
 
                                 <div class="custom-block-info">
                                     <h5 class="mb-2">
-                                        <a href="detail-page.html">
+                                        <a>
                                             My Demon
                                         </a>
                                     </h5>
@@ -255,26 +255,26 @@ https://templatemo.com/tm-584-pod-talk
                                     <p class="mb-0">Drama ini menceritakan tentang pernikahan kontrak antara seorang manusia dengan iblis.</p>
 
                                     <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                        <a href="#" class="bi-headphones me-1">
+                                        <a class="bi-headphones me-1">
                                             <span>100k</span>
                                         </a>
 
-                                        <a href="#" class="bi-heart me-1">
+                                        <a class="bi-heart me-1">
                                             <span>2.5k</span>
                                         </a>
 
-                                        <a href="#" class="bi-chat me-1">
+                                        <a class="bi-chat me-1">
                                             <span>924k</span>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="social-share d-flex flex-column ms-auto">
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-heart"></i>
                                     </a>
 
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-bookmark"></i>
                                     </a>
                                 </div>
@@ -284,14 +284,14 @@ https://templatemo.com/tm-584-pod-talk
                         <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                             <div class="custom-block custom-block-full">
                                 <div class="custom-block-image-wrap">
-                                    <a href="detail-page.html">
+                                    <a>
                                         <img src="{{asset('templateUser')}}/images/podcast/27670664_7369753.jpeg" class="custom-block-image img-fluid" alt="">
                                     </a>
                                 </div>
 
                                 <div class="custom-block-info">
                                     <h5 class="mb-2">
-                                        <a href="detail-page.html">
+                                        <a>
                                             Hidden Love
                                         </a>
                                     </h5>
@@ -309,26 +309,26 @@ https://templatemo.com/tm-584-pod-talk
                                     <p class="mb-0">Drama ini diadaptasi dari novel populer dan menceritakan perjalanan cinta yang manis dan sabar.</p>
 
                                     <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                        <a href="#" class="bi-headphones me-1">
+                                        <a class="bi-headphones me-1">
                                             <span>100k</span>
                                         </a>
 
-                                        <a href="#" class="bi-heart me-1">
+                                        <a class="bi-heart me-1">
                                             <span>2.5k</span>
                                         </a>
 
-                                        <a href="#" class="bi-chat me-1">
+                                        <a class="bi-chat me-1">
                                             <span>924k</span>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="social-share d-flex flex-column ms-auto">
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-heart"></i>
                                     </a>
 
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-bookmark"></i>
                                     </a>
                                 </div>
@@ -338,14 +338,14 @@ https://templatemo.com/tm-584-pod-talk
                         <div class="col-lg-4 col-12">
                             <div class="custom-block custom-block-full">
                                 <div class="custom-block-image-wrap">
-                                    <a href="detail-page.html">
+                                    <a>
                                         <img src="{{asset('templateUser')}}/images/podcast/untangled.jpeg" class="custom-block-image img-fluid" alt="">
                                     </a>
                                 </div>
 
                                 <div class="custom-block-info">
                                     <h5 class="mb-2">
-                                        <a href="detail-page.html">
+                                        <a>
                                             Love Untangled
                                         </a>
                                     </h5>
@@ -362,26 +362,26 @@ https://templatemo.com/tm-584-pod-talk
                                     <p class="mb-0">Drama ini menceritakan tentang 2 orang yang sudah ditakdirkan bersama tapi harus menunggu waktu yang tepat agar perasaan mereka bisa bertemu.</p>
 
                                     <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                        <a href="#" class="bi-headphones me-1">
+                                        <a class="bi-headphones me-1">
                                             <span>100k</span>
                                         </a>
 
-                                        <a href="#" class="bi-heart me-1">
+                                        <a class="bi-heart me-1">
                                             <span>2.5k</span>
                                         </a>
 
-                                        <a href="#" class="bi-chat me-1">
+                                        <a class="bi-chat me-1">
                                             <span>924k</span>
                                         </a>
                                     </div>
                                 </div>
 
                                 <div class="social-share d-flex flex-column ms-auto">
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-heart"></i>
                                     </a>
 
-                                    <a href="#" class="badge ms-auto">
+                                    <a class="badge ms-auto">
                                         <i class="bi-bookmark"></i>
                                     </a>
                                 </div>
